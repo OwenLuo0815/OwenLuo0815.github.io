@@ -7,11 +7,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # 想要圆形头像可以改成 true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>School of Integrated Circuits</p>
+    <p>Nanjing University</p>
+    <p>Nanjing, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an undergraduate student pursuing a B.S. in Integrated Circuit Design and Integrated System at [Nanjing University](https://www.nju.edu.cn/en/), where I rank 2nd in my major cohort. My research interests broadly span analog and radio-frequency (RF) integrated circuit design, mixed-signal readout systems, and flexible multi-modal sensing.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I conduct research at the [ISCL Lab](https://iscl.nju.edu.cn/) under the School of Integrated Circuits, focusing on high-speed interconnect transceivers. My work involves designing D-band sub-harmonic mixers in TSMC 28nm CMOS and conducting 3D EM co-simulation using Ansys HFSS. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition, I lead a National-Level College Student Innovation Training Program, developing a robotic multi-modal tactile sensing system. For more details about my research and hardware deployments, please refer to my [Projects](/projects/) page or view my [Curriculum Vitae](/cv/).
